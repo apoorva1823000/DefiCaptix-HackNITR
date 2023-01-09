@@ -31,5 +31,5 @@ In the examples folder of this repl there are 3 solidity smart contracts to desc
 3. Funding a project with less carbon footprint
 
 
-Smart Contract address Shardeum: 0x4c88957Dfe4630CE1319F828Fc55cA4408be7B51
+Smart Contract address Shardeum: 0x4c88957Dfe4630CE1319F828Fc55cA4408be7B51 <br/>
 Smart Contract address Polygon: 0x6214Da55490fd309fDCF9df814D7b5c60aA4F49d
